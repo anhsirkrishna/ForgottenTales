@@ -1,6 +1,7 @@
 # ForgottenTales
 Forgotten Tales is a 2D Strategy CRPG. Developed from scratch using LOVE2D, a 2D game engine. 
 
+Demo Video Link : https://youtu.be/QWCdPlSuau0
 Download Link : https://drive.google.com/file/d/1T3o2mEvOwWkW2xEaXEsuI5vwFJnh2oFb/view?usp=sharing
 Exactract and run the exe to play !
 

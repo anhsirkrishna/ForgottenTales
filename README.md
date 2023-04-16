@@ -15,6 +15,9 @@ Forgotten Tales is a small RPG game featuring :
  - An inventory system
  - A dialogue system
 
+![Forgotten Tales 12_18_2020 11_23_23 PM](https://user-images.githubusercontent.com/15943818/232260087-4bca51b7-d976-4856-84be-ca65881f0bfe.png)
+![Forgotten Tales 12_18_2020 11_23_34 PM](https://user-images.githubusercontent.com/15943818/232260092-a89bd629-d789-4b5e-a7f4-dc21aa3ffba8.png)
+
 The goal of the game is to traverse through the level, defeat all the enemies, collect loot to empower your character and finally face off and kill the final Boss. 
 
 Control of the game is done using :
